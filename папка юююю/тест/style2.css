@@ -1,0 +1,15 @@
+h1{
+	background:linear-gradient(to right,red,purple,navy);
+	font-family: cursive;
+	color:white;
+}
+img{
+	margin-right:80px;
+	margin-left:50px;
+	width:200px;
+}
+h2,h1,h3{
+	font-family: cursive;
+	color:white;
+	background:linear-gradient( to right,blue,yellow);
+}
